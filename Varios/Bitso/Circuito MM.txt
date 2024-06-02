@@ -1,0 +1,8 @@
+Para analizar el circuito en cifras, deberiamos tener una foto del mismo momento de los siguientes factores:
+
++ Dolar CCL pactado con el broker
++ Dolar Blue (si hay muchos, podria ser un promedio)
++ Bid y Ask de todos los pares Dolar->Crypto del broker con menos cantidad de pares
++ Bid y Ask de los mismos pares del punto anterior pero que sean Crypto->BTC
++ Todos los costos administrativos, de transferencia, comisiones que puedan existir para cerrar el circuito
++ Considerar costos fijos (mantenimiento de cuenta por ejemplo)
